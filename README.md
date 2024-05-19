@@ -26,4 +26,5 @@ Olá! Eu sou Julia, uma desenvolvedora apaixonada por tecnologia e inovação. A
 
 Obrigado por visitar meu perfil! Se você tem alguma pergunta ou quer colaborar em algum projeto, não hesite em entrar em contato.
 
+E-mail: falecomjuliasantana@gmail.com
 ---
